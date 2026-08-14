@@ -1,0 +1,12 @@
+---
+import { SITE, NAV } from '../consts';
+---
+<header class="mh">
+  <div class="mh__in">
+    <a class="mh__name" href="/">{SITE.name}</a>
+    <div class="mh__tag">{SITE.tagline}</div>
+    <nav class="mh__nav" aria-label="Utama">
+      {NAV.map((i) => <a href={i.href}>{i.label}</a>)}
+    </nav>
+  </div>
+</header>

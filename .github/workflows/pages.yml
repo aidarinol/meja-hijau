@@ -1,0 +1,50 @@
+name: deploy-meja-hijau
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 13 2-31/3 * *'   # UTC (~+7 WIB). Tiap 3 hari; berselang dari situs lain.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages-meja-hijau
+  cancel-in-progress: false
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rilis 1 artikel berikutnya (hanya saat schedule)
+        id: rel
+        if: github.event_name == 'schedule'
+        env:
+          DRIP_MODE: prefix_flag
+          DRIP_CONTENT_DIR: src/content/articles
+        run: bash .github/scripts/release.sh . 1 Asia/Jakarta
+      - name: Commit status maju
+        if: github.event_name == 'schedule' && steps.rel.outputs.released_count != '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "auto-release: 1 artikel (${{ steps.rel.outputs.release_date }})"
+          git push
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install deps (tanpa lockfile -> npm install)
+        run: npm install
+      - name: Build Astro
+        run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4

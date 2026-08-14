@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout title="Kontak" description={`Hubungi ${SITE.name}.`}>
+  <article class="col essay">
+    <header class="essay__head"><span class="essay__k">Kontak</span><h1 class="essay__title">Menghubungi kami</h1></header>
+    <div class="prose">
+      <p>Masukan, usulan tema, atau koreksi sejarah: surel ke <em>[[email@domain]]</em>.</p>
+      <h2>Menemukan kekeliruan?</h2>
+      <p>Sertakan tautan esai, bagian yang keliru, dan sumber pembanding. Koreksi yang tepat kami catat terbuka beserta tanggalnya.</p>
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout title="Kebijakan" description={`Standar ${SITE.name}.`}>
+  <article class="col essay">
+    <header class="essay__head"><span class="essay__k">Kebijakan</span><h1 class="essay__title">Standar &amp; keterbukaan</h1></header>
+    <div class="prose">
+      <h2>Sumber sejarah</h2>
+      <p>Kami mengutamakan sumber yang dapat ditelusuri dan membedakan fakta dari tafsir. Bila sebuah cerita bersifat legenda atau diperdebatkan, kami katakan demikian.</p>
+      <h2>Koreksi</h2>
+      <p>Kesalahan diperbaiki terbuka dengan catatan tanggal.</p>
+      <h2>Sikap terhadap judi</h2>
+      <p>{SITE.name} membahas kasino secara historis dan budaya untuk tujuan edukatif. Kami tidak mengajak berjudi dan tidak menautkan ke layanan taruhan. Perjudian membawa risiko kerugian dan kecanduan.</p>
+      <h2>Kemandirian</h2>
+      <p>Kami independen dan tidak dibayar untuk mengunggulkan operator mana pun.</p>
+    </div>
+  </article>
+</BaseLayout>

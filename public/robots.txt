@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thatsoundradio.com/sitemap-index.xml

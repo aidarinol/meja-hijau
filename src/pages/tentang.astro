@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+// CATATAN: ganti [[ ]] dengan data nyata sebelum live.
+---
+<BaseLayout title="Tentang" description={`Tentang ${SITE.name}.`}>
+  <article class="col essay">
+    <header class="essay__head"><span class="essay__k">Tentang</span><h1 class="essay__title">Membaca kasino, bukan memasukinya</h1></header>
+    <div class="prose">
+      <p>{SITE.name} menulis esai tentang kasino sebagai fenomena budaya dan sejarah — arsitekturnya, tokoh yang merancangnya, dan keputusan yang membentuk cara ia bekerja. Kami tertarik pada kisah dan sebab, bukan pada meja mana yang harus Anda datangi.</p>
+      <h2>Yang tidak kami lakukan</h2>
+      <p>Tidak ada rekomendasi tempat bertaruh, tidak ada tautan ke layanan judi. Tulisan ini untuk dibaca, bukan untuk mengajak bermain.</p>
+      <h2>Penulis</h2>
+      <p><em>[[Isi nama & latar belakang penulis di sini.]]</em></p>
+      <h2>Cara kami bekerja</h2>
+      <p>Klaim sejarah kami sandarkan pada sumber yang disebutkan. Koreksi diterima terbuka lewat <a href="/kontak/">kontak</a>.</p>
+    </div>
+  </article>
+</BaseLayout>

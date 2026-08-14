@@ -1,0 +1,87 @@
+/* ==========================================================================
+   Meja Hijau — sistem desain "long-read klasik"
+   Cormorant Garamond (display high-contrast) + Spectral (badan). Krem & hijau tua.
+   Satu kolom, drop cap, margin lega. BERBEDA dari situs lain.
+   ========================================================================== */
+:root {
+  --paper: #f4efe3;
+  --paper-2: #ece4d2;
+  --ink: #1b2a22;
+  --ink-2: #3f4f45;
+  --muted: #7c7460;
+  --green: #14352a;
+  --gold: #a8873e;
+  --rule: #d8ccb2;
+  --display: 'Cormorant Garamond', Georgia, serif;
+  --body: 'Spectral', Georgia, 'Times New Roman', serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 1.12rem; line-height: 1.75; }
+img { max-width: 100%; height: auto; }
+a { color: var(--green); text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+a:hover { color: var(--gold); }
+h1,h2,h3 { font-family: var(--display); font-weight: 600; line-height: 1.05; color: var(--green); }
+
+.col { width: min(100% - 2.4rem, 40rem); margin-inline: auto; }
+.col-wide { width: min(100% - 2.4rem, 52rem); margin-inline: auto; }
+
+/* Header berjajar tengah, klasik */
+.mh { border-bottom: 1px solid var(--rule); text-align: center; }
+.mh__in { padding: 1.8rem 0 1.3rem; }
+.mh__name { font-family: var(--display); font-weight: 600; font-size: 2.3rem; color: var(--green); letter-spacing: 0.01em; text-decoration: none; display: inline-block; }
+.mh__tag { font-family: var(--body); font-style: italic; color: var(--muted); font-size: 1rem; margin-top: 0.2rem; }
+.mh__nav { margin-top: 0.9rem; display: flex; gap: 1.6rem; justify-content: center; }
+.mh__nav a { font-family: var(--display); font-size: 1.05rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-2); text-decoration: none; }
+.mh__nav a:hover { color: var(--gold); }
+
+/* Beranda */
+.lede { text-align: center; padding: 3rem 0 2rem; }
+.lede h1 { font-size: clamp(2.4rem, 1.8rem + 3vw, 4rem); max-width: 16ch; margin: 0 auto; }
+.lede p { font-style: italic; color: var(--ink-2); max-width: 40ch; margin: 1rem auto 0; font-size: 1.2rem; }
+
+.toc { border-top: 1px solid var(--rule); padding: 1.5rem 0 3rem; }
+.entry { padding: 1.6rem 0; border-bottom: 1px solid var(--rule); text-align: center; }
+.entry .k { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.85rem; color: var(--gold); }
+.entry h2 { font-size: 1.9rem; margin: 0.4rem 0; }
+.entry h2 a { color: var(--green); text-decoration: none; }
+.entry h2 a:hover { color: var(--gold); }
+.entry p { color: var(--ink-2); margin: 0 auto; max-width: 44ch; }
+.empty { text-align: center; padding: 3rem 0; color: var(--muted); font-style: italic; }
+
+/* Esai */
+.essay { padding: 2.6rem 0 4rem; }
+.essay__head { text-align: center; margin-bottom: 2.2rem; }
+.essay__k { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.16em; font-size: 0.9rem; color: var(--gold); }
+.essay__title { font-size: clamp(2rem, 1.5rem + 2.6vw, 3.2rem); margin: 0.5rem auto 0; max-width: 20ch; }
+.essay__dek { font-style: italic; color: var(--ink-2); font-size: 1.25rem; margin-top: 0.8rem; max-width: 34ch; margin-inline: auto; }
+.essay__by { font-family: var(--display); font-size: 1rem; letter-spacing: 0.03em; color: var(--muted); margin-top: 1.2rem; }
+.essay__by b { color: var(--ink); font-weight: 600; }
+
+.prose { font-size: 1.14rem; }
+.prose > * + * { margin-top: 1.4rem; }
+.prose > p:first-of-type::first-letter {
+  font-family: var(--display); float: left; font-size: 3.6rem; line-height: 0.8;
+  padding: 0.2rem 0.6rem 0 0; color: var(--green);
+}
+.prose h2 { font-size: 1.9rem; margin-top: 2.8rem; }
+.prose h3 { font-size: 1.4rem; margin-top: 2rem; }
+.prose blockquote { margin: 2rem 0; padding: 0 2rem; border: 0; text-align: center; font-family: var(--display); font-size: 1.7rem; font-style: italic; color: var(--green); }
+.prose em { color: var(--ink-2); }
+.prose hr { border: 0; text-align: center; margin: 2.6rem 0; }
+.prose hr::before { content: '❧'; color: var(--gold); font-size: 1.4rem; }
+
+.sources { margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--rule); font-size: 0.98rem; }
+.sources h2 { font-size: 1.1rem; font-family: var(--display); text-transform: uppercase; letter-spacing: 0.1em; }
+.sources ol { padding-left: 1.2rem; color: var(--ink-2); }
+/* Kontributor — baris rata-tengah, bukan boks */
+.contrib { margin-top: 2.4rem; padding-top: 1.2rem; border-top: 1px solid var(--rule); text-align: center; font-style: italic; color: var(--ink-2); font-size: 1.02rem; }
+.contrib b { font-family: var(--display); font-style: normal; color: var(--green); }
+/* tambahan footer */
+.mh-foot__orn { color: var(--gold); font-size: 1.3rem; margin-bottom: 0.2rem; }
+.mh-foot__name { font-family: var(--display); font-size: 1.6rem; color: var(--green); }
+.mh-foot__links { margin: 0.5rem 0; }
+.mh-foot__cr { color: var(--muted); font-size: 0.92rem; }
+
+.mh-foot { border-top: 1px solid var(--rule); margin-top: 2rem; text-align: center; }
+.mh-foot__in { padding: 2rem 0 2.8rem; font-family: var(--display); font-size: 1rem; letter-spacing: 0.02em; color: var(--muted); }
+.mh-foot a { color: var(--ink-2); }

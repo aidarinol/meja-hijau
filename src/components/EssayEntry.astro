@@ -1,0 +1,9 @@
+---
+interface Props { title: string; dek: string; href: string; kicker?: string; }
+const { title, dek, href, kicker } = Astro.props;
+---
+<article class="entry">
+  {kicker && <span class="k">{kicker}</span>}
+  <h2><a href={href}>{title}</a></h2>
+  <p>{dek}</p>
+</article>

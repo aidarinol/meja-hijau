@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EssayEntry from '../components/EssayEntry.astro';
+import { SITE } from '../consts';
+
+const posts = (await getCollection('articles', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+<BaseLayout title={SITE.name}>
+  <section class="col lede">
+    <h1>Ruang yang dibangun untuk peluang.</h1>
+    <p>{SITE.description}</p>
+  </section>
+  <div class="col">
+    {posts.length === 0 ? (
+      <p class="empty">Esai pertama sedang ditulis.</p>
+    ) : (
+      <div class="toc">
+        {posts.map((p) => (
+          <EssayEntry title={p.data.title} dek={p.data.description} href={`/artikel/${p.slug}/`} kicker={p.data.kicker} />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>
