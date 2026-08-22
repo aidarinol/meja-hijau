@@ -40,10 +40,6 @@ Sistem warna dan denominasi chip menyimpan lapisan desain psikologis tersendiri.
 
 Untuk taruhan sangat tinggi, kasino menggunakan bentuk yang lebih besar — plak persegi panjang alih-alih cakram bulat — yang membawa nilai jauh lebih besar dalam satu keping. Plak bernilai tinggi ini mengubah jumlah uang yang mengejutkan menjadi satu objek tunggal yang mudah dipegang dan didorong ke tengah meja. Semakin besar nilai yang dipadatkan ke dalam satu keping, semakin besar jarak psikologis antara tindakan bertaruh dan realitas jumlah yang dipertaruhkan. Mendorong satu plak ke depan terasa seperti satu gerakan sederhana; bahwa gerakan itu memindahkan jumlah uang yang setara dengan mobil atau rumah adalah kenyataan yang bentuk fisik keping itu, secara sengaja, bantu lupakan. Desain denominasi, seperti seluruh desain chip, bekerja untuk membuat besarnya taruhan terasa lebih kecil daripada sebenarnya.
 
-## Membaca objek yang menghapus rasa sakit
+## Objek yang dirancang melonggarkan tangan Anda
 
 Chip kasino layak diperhatikan justru karena ia dirancang untuk tidak diperhatikan sebagai uang. Seluruh keberhasilannya bergantung pada kemampuannya membuat Anda lupa bahwa cakram di tangan Anda adalah tabungan, gaji, atau tagihan yang menunggu. Menyadari ini — bahwa jarak antara chip dan uang adalah jarak yang dirancang, bukan kebetulan — adalah salah satu bentuk pertahanan paling praktis di meja judi. Menerjemahkan chip kembali ke uang sungguhan dalam pikiran, merasakan kembali beban yang chip dirancang untuk menghapus, mengembalikan rem yang objek itu sengaja lepaskan. Chip adalah bukti bahwa di kasino, bahkan bentuk uang pun telah direkayasa — bukan untuk kenyamanan Anda, melainkan untuk melonggarkan tangan Anda.
-
----
-
-*Esai ini membahas objek dan desain untuk tujuan edukatif; ia bukan ajakan bermain. Chip dirancang untuk memperlemah rem psikologis terhadap pengeluaran.*
