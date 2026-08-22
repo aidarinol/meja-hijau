@@ -40,10 +40,6 @@ Untuk keadilan, harus disebut bahwa tidak semua film memperlakukan judi sebagai 
 
 Kontras antara dua tradisi ini — judi sebagai glamor versus judi sebagai kehancuran — mencerminkan ambivalensi budaya yang lebih dalam terhadap perjudian, ambivalensi yang sama yang menggerakkan gelombang larangan dan legalisasi sepanjang sejarah. Film yang memuliakan judi dan film yang mengutuknya adalah dua suara dalam percakapan panjang tentang bagaimana masyarakat memandang taruhan. Bahwa suara yang memuliakan cenderung lebih populer dan lebih diingat — bahwa kita lebih mudah membayangkan mata-mata elegan di meja bakarat daripada pecandu yang kehilangan segalanya — mengungkap ke arah mana imajinasi budaya condong. Sisi gelap ada di layar, tetapi ia jarang menjadi citra yang bertahan. Kita cenderung mewarisi glamornya, dan melupakan peringatannya.
 
-## Membaca citra yang kita warisi
+## Citra yang kita warisi dari layar
 
 Memahami bagaimana film membentuk citra kasino mengubah cara kita menerima citra itu. Glamor yang melekat pada judi di layar bukan sifat bawaan perjudian; ia konstruksi budaya, dibangun karena kasino menyediakan panggung yang bagus untuk cerita tentang keberanian dan kecerdikan. Kecerdikan pahlawan perampokan bukan cerminan bahwa kasino bisa dikalahkan; ia justru pengakuan terselubung bahwa ia tak bisa. Di antara kedua fiksi ini berdiri realitas yang lebih sederhana dan kurang sinematik: sebuah bisnis yang dirancang agar rumah menang, dihuni sebagian besar oleh orang biasa yang pengalamannya jauh dari layar. Membedakan citra yang kita warisi dari realitas yang ada adalah salah satu hal paling berguna yang bisa dilakukan seseorang sebelum melangkah ke dalam ruang yang telah begitu lama dan begitu indah difilmkan.
-
----
-
-*Esai ini membahas budaya dan representasi untuk tujuan edukatif; ia bukan ajakan bermain. Citra glamor perjudian di film sering berlawanan dengan realitasnya.*
