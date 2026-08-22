@@ -1,10 +1,12 @@
+# Build + deploy meja-hijau ke GitHub Pages tiap push; drip terjadwal ACAK.
+# Cron tiap hari + gate acak (min jeda 2 hari, ~0.6/hari) → gap ~2-4 hari acak.
 name: deploy-meja-hijau
 on:
   push:
     branches: [main]
   workflow_dispatch: {}
   schedule:
-    - cron: '0 13 2-31/3 * *'   # UTC (~+7 WIB). Tiap 3 hari; berselang dari situs lain.
+    - cron: '7 13 * * *' # ~20:07 WIB tiap hari; gate acak yang menentukan rilis.
 permissions:
   contents: write
   pages: write
@@ -20,17 +22,36 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Rilis 1 artikel berikutnya (hanya saat schedule)
+        with:
+          fetch-depth: 0
+      - name: Gate acak (min jeda 2 hari, lalu ~0.6/hari)
+        id: gate
+        if: github.event_name != 'push'
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "go=yes" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          last=$(git log --grep='auto-release' -1 --date=short --pretty=%ad || true)
+          today=$(TZ=Asia/Jakarta date +%F)
+          go=yes
+          if [ -n "$last" ]; then
+            gap=$(( ($(date -d "$today" +%s) - $(date -d "$last" +%s)) / 86400 ))
+            [ "$gap" -lt 2 ] && go=no
+          fi
+          if [ "$go" = yes ] && [ $((RANDOM % 5)) -ge 3 ]; then go=no; fi
+          echo "go=$go" >> "$GITHUB_OUTPUT"
+          echo "GATE event=${{ github.event_name }} last=$last go=$go"
+      - name: Rilis 1 artikel (hanya terjadwal/manual)
         id: rel
-        if: github.event_name == 'schedule'
+        if: github.event_name != 'push' && steps.gate.outputs.go == 'yes'
         env:
           DRIP_MODE: prefix_flag
           DRIP_CONTENT_DIR: src/content/articles
         run: bash .github/scripts/release.sh . 1 Asia/Jakarta
       - name: Commit status maju
-        if: github.event_name == 'schedule' && steps.rel.outputs.released_count != '0'
+        if: github.event_name != 'push' && steps.gate.outputs.go == 'yes' && steps.rel.outputs.released_count != '0'
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "auto-release: 1 artikel (${{ steps.rel.outputs.release_date }})"
