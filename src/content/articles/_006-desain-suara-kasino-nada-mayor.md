@@ -40,10 +40,6 @@ Sama pentingnya dengan suara yang ada adalah suara yang sengaja ditiadakan atau 
 
 Di ujung lain spektrum, momen kemenangan besar diberi perlakuan suara yang jauh melampaui proporsinya — melodi panjang, dentang yang meningkat, efek yang dirancang untuk membuat kemenangan terasa monumental dan mengundang perhatian sekitar. Suara jackpot yang menggema di seluruh lantai bukan hanya hadiah bagi pemenang; ia iklan bagi semua orang lain, bukti audio bahwa kemenangan besar itu nyata dan bisa terjadi di sini. Dengan meninggikan suara kemenangan langka dan mendiamkan kekalahan yang sering, lanskap suara kasino melukis potret peluang yang jauh lebih cerah daripada matematika di baliknya — sebuah komposisi yang, seperti seluruh ruangan, dibuat untuk terdengar lebih murah hati daripada kenyataannya.
 
-## Mendengar ruang yang mendengar Anda
+## Lagu yang liriknya: tinggallah lebih lama
 
 Menyadari arsitektur suara ini mengubah pengalaman berada di dalamnya. Denting yang tadinya sekadar latar menjadi tanda yang bisa dibaca: bukti bahwa bahkan udara yang Anda dengar telah disetel untuk memengaruhi perasaan Anda. Sama seperti karpet yang mengangkat mata dan ketiadaan jam yang menghapus waktu, lanskap suara nada mayor adalah bagian dari sebuah lingkungan yang setiap inderanya telah dipikirkan. Pertahanan terbaik terhadap ruang semacam ini adalah mendengarnya secara sadar — mengenali bahwa perayaan yang terdengar di mana-mana adalah komposisi, bukan cerminan, dan bahwa telinga Anda sedang dinyanyikan sebuah lagu yang liriknya adalah "tinggallah lebih lama."
-
----
-
-*Esai ini membahas desain untuk tujuan edukatif. Sebagian klaim efek psikologis suara ditandai sebagai bersandar pada penelitian yang beragam, bukan fakta pasti.*
