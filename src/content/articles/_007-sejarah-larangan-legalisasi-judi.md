@@ -40,10 +40,6 @@ Salah satu babak paling mengungkap dari gelombang legalisasi adalah ketika negar
 
 Yang membuat babak ini secara khusus penuh ketegangan adalah bahwa negara kini memiliki kepentingan finansial pada aktivitas yang, dalam peran lain, wajib ia atur demi melindungi warganya. Sebuah pemerintah yang pendapatannya bergantung pada lotre atau kasino berada dalam posisi rumit ketika harus memutuskan seberapa ketat membatasi judi demi kesejahteraan publik — karena pembatasan yang melindungi warga juga mengurangi pendapatannya sendiri. Konflik kepentingan ini adalah salah satu warisan paling halus dari gelombang legalisasi: ia menciptakan negara yang secara bersamaan adalah pelindung warga dari bahaya judi dan penerima manfaat dari judi itu. Sejarah gelombang moral, pada titik ini, berujung pada ironi yang tak nyaman — pihak yang seharusnya menimbang bahaya judi telah menjadi salah satu pihak yang paling diuntungkan olehnya.
 
-## Membaca gelombang yang belum selesai
+## Pasang-surut yang belum berakhir
 
 Kita hidup di dalam salah satu gelombang ini, bukan di ujungnya. Kemudahan judi daring, penyebaran taruhan olahraga, dan normalisasi bertaruh sebagai hiburan adalah pasang legalisasi yang, bila sejarah menjadi panduan, cepat atau lambat akan bertemu surut — sebuah reaksi moral ketika kerugian sosialnya menjadi cukup terlihat. Memahami pola gelombang ini memberi perspektif yang jarang dimiliki mereka yang hidup di dalam satu momennya: bahwa "normal" hari ini bukanlah keadaan akhir, melainkan satu titik dalam ayunan panjang antara dua kekuatan yang tak pernah benar-benar berdamai. Perjudian tidak pernah dimenangkan atau dikalahkan secara permanen oleh salah satu pihak; ia hanya berayun, dan mempelajari ayunannya adalah mempelajari sesuatu tentang bagaimana masyarakat menegosiasikan hal-hal yang secara bersamaan mereka inginkan dan takuti.
-
----
-
-*Esai ini membahas sejarah sosial dan hukum untuk tujuan edukatif; ia bukan ajakan bermain, dan tidak menganjurkan posisi tertentu dalam perdebatan yang masih berlangsung.*
