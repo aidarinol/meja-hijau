@@ -43,7 +43,3 @@ Dari penyamaran inilah, seperti disebut, simbol buah lahir — mewakili rasa per
 ## Dari bengkel ke industri
 
 Perjalanan dari Liberty Bell ke lantai kasino modern yang berdenyut dengan ribuan mesin adalah perjalanan dari mekanik ke elektronik ke digital, tetapi ia adalah satu garis yang tak terputus dari bengkel kecil di San Francisco. Setiap mesin slot yang berputar hari ini adalah keturunan jauh dari alat besi cor yang dirakit seorang montir yang tak pernah menikmati buah penuh dari kejeniusannya. Ada sesuatu yang pantas direnungkan dalam hal itu — bahwa salah satu mesin penghasil uang paling ampuh yang pernah diciptakan manusia lahir dari tangan seseorang yang, karena satu kegagalan hukum, sebagian besar tersisih dari kekayaan yang ia mungkinkan. Liberty Bell membebaskan sebuah industri; ia tak pernah benar-benar membebaskan penciptanya.
-
----
-
-*Esai ini membahas sejarah untuk tujuan edukatif. Detail tentang paten dan kehidupan Charles Fey bersandar pada catatan sejarah yang sebagiannya masih diperdebatkan; yang legenda ditandai sebagai demikian.*
