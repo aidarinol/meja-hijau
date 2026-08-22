@@ -43,7 +43,3 @@ Perubahan ini mengungkap bahwa bahkan simulakra pun mengikuti mode. Salinan Vene
 ## Membaca kota salinan
 
 Berjalan di Strip dengan mata yang memahami ini mengubah pengalamannya. Kitsch yang tampak konyol menjadi teks yang bisa dibaca: setiap bangunan adalah argumen tentang bagaimana menarik dan menahan manusia, setiap salinan adalah taruhan tentang apa yang orang inginkan dari sebuah tempat. Las Vegas mengajarkan, tanpa bermaksud mengajar, bahwa kita hidup di zaman ketika salinan bisa mengalahkan asli, ketika pengalaman yang dirancang bisa terasa lebih memuaskan daripada yang tak dirancang, dan ketika sebuah jalan di tengah gurun bisa menjadi salah satu tempat paling dikunjungi di planet ini justru karena ia tak berpura-pura menjadi apa pun selain sebuah pertunjukan. Bahwa pertunjukan itu dibangun untuk mengantar Anda ke meja judi hanya membuatnya lebih pantas dipahami, bukan kurang.
-
----
-
-*Esai ini membahas arsitektur dan budaya untuk tujuan edukatif; ia bukan ajakan bermain. Kemegahan yang dirancang selalu memiliki tujuan komersial yang layak dikenali.*
