@@ -45,7 +45,3 @@ Migrasi ini mengungkap sesuatu tentang hakikat desain kasino. Prinsipnya bukan t
 Yang menjadikan karpet kasino menarik bukan keburukannya, melainkan kesengajaannya. Di ruang tempat tak ada yang kebetulan — tak ada jam, tak ada jendela, tak ada garis lurus menuju pintu keluar — bahkan lantai adalah keputusan yang diperhitungkan. Menyadari ini mengubah cara seseorang berjalan melintasi ruang itu. Karpet yang tadinya sekadar buruk rupa menjadi tanda yang bisa dibaca: bukti bahwa Anda berada di sebuah lingkungan yang setiap permukaannya telah dipikirkan untuk memengaruhi Anda, sampai ke serat di bawah sepatu Anda.
 
 Inilah, pada akhirnya, nilai memperhatikan sesuatu yang dirancang untuk tidak diperhatikan. Sebuah ruang yang bekerja paling baik ketika Anda lupa bahwa ia sedang bekerja; membuat elemen-elemennya kembali terlihat — bahkan yang paling remeh seperti karpet — adalah salah satu bentuk pertahanan paling sederhana terhadap ruang yang dirancang untuk membuat Anda lupa waktu, lupa arah, dan lupa berhenti. Karpet itu tidak jelek. Ia hanya sedang bekerja, dan pekerjaannya bukan untuk Anda kagumi.
-
----
-
-*Esai ini membahas desain untuk tujuan edukatif. Sebagian klaim psikologi desain kasino bersandar pada teori perancang, ditandai sebagai demikian, bukan fakta terbukti.*
