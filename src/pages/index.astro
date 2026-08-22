@@ -1,27 +1,85 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import EssayEntry from '../components/EssayEntry.astro';
 import { SITE } from '../consts';
 
 const posts = (await getCollection('articles', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+const fmt = new Intl.DateTimeFormat('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
+const roman = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV'];
 ---
 <BaseLayout title={SITE.name}>
-  <section class="col lede">
+  <section class="col mlede">
+    <span class="mlede__vol">Volume Satu</span>
     <h1>Ruang yang dibangun untuk peluang.</h1>
     <p>{SITE.description}</p>
   </section>
+
   <div class="col">
-    {posts.length === 0 ? (
-      <p class="empty">Esai pertama sedang ditulis.</p>
-    ) : (
-      <div class="toc">
-        {posts.map((p) => (
-          <EssayEntry title={p.data.title} dek={p.data.description} href={`/artikel/${p.slug}/`} kicker={p.data.kicker} />
-        ))}
+    <div class="contents">
+      <div class="contents__hd">
+        <span>Daftar Isi</span>
+        <span>{posts.length} esai</span>
       </div>
-    )}
+      {posts.length === 0 ? (
+        <p class="mempty">Esai pertama sedang ditulis.</p>
+      ) : (
+        <ol class="cts">
+          {posts.map((p, i) => (
+            <li class="cts__item">
+              <a class="cts__link" href={`/artikel/${p.slug}/`}>
+                <span class="cts__num">{roman[i] || (i + 1)}</span>
+                <span class="cts__mid">
+                  <span class="cts__row">
+                    <span class="cts__ttl">{p.data.title}</span>
+                    <span class="cts__lead" aria-hidden="true"></span>
+                    <span class="cts__genre">{p.data.kicker || 'Esai'}</span>
+                  </span>
+                  <span class="cts__dek">{p.data.description}</span>
+                  <span class="cts__date">{fmt.format(p.data.pubDate)}</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      )}
+    </div>
+    <p class="colophon">Bacaan panjang tentang sejarah dan budaya kasino — disunting {SITE.editor}.</p>
   </div>
 </BaseLayout>
+
+<style>
+  .mlede { text-align: center; padding: 3rem 0 2.2rem; }
+  .mlede__vol { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.22em; font-size: 0.85rem; color: var(--gold); }
+  .mlede h1 { font-size: clamp(2.4rem, 1.8rem + 3vw, 3.8rem); max-width: 16ch; margin: 0.6rem auto 0; }
+  .mlede p { font-style: italic; color: var(--ink-2); max-width: 42ch; margin: 1rem auto 0; font-size: 1.18rem; }
+
+  .contents { border-top: 2px solid var(--green); }
+  .contents__hd { display: flex; justify-content: space-between; font-family: var(--display); text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.8rem; color: var(--muted); padding: 0.7rem 0; border-bottom: 1px solid var(--rule); }
+
+  .cts { list-style: none; margin: 0; padding: 0; }
+  .cts__item { border-bottom: 1px solid var(--rule); }
+  .cts__link { display: grid; grid-template-columns: 3rem 1fr; gap: 1.1rem; padding: 1.5rem 0.3rem; text-decoration: none; color: inherit; align-items: baseline; }
+  .cts__link:hover { background: var(--paper-2); }
+  .cts__num { font-family: var(--display); font-size: 1.7rem; color: var(--gold); text-align: right; line-height: 1; }
+  .cts__mid { display: block; }
+  .cts__row { display: flex; align-items: baseline; gap: 0.5rem; }
+  .cts__ttl { font-family: var(--display); font-weight: 600; font-size: 1.7rem; line-height: 1.08; color: var(--green); }
+  .cts__lead { flex: 1; border-bottom: 2px dotted var(--rule); transform: translateY(-0.25em); min-width: 1.5rem; }
+  .cts__genre { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.78rem; color: var(--gold); white-space: nowrap; }
+  .cts__dek { display: block; font-style: italic; color: var(--ink-2); font-size: 1.05rem; margin-top: 0.35rem; max-width: 52ch; }
+  .cts__date { display: block; font-family: var(--display); letter-spacing: 0.06em; font-size: 0.8rem; color: var(--muted); margin-top: 0.4rem; text-transform: uppercase; }
+  .cts__link:hover .cts__ttl { color: var(--gold); }
+
+  .mempty { text-align: center; padding: 3rem 0; color: var(--muted); font-style: italic; }
+  .colophon { text-align: center; font-style: italic; color: var(--muted); font-size: 0.95rem; margin: 2.2rem 0 3.5rem; }
+
+  @media (max-width: 560px) {
+    .cts__link { grid-template-columns: 2rem 1fr; gap: 0.7rem; }
+    .cts__num { font-size: 1.3rem; }
+    .cts__ttl { font-size: 1.4rem; }
+    .cts__lead { display: none; }
+    .cts__genre { margin-left: auto; }
+  }
+</style>

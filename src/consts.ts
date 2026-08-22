@@ -6,10 +6,12 @@ export const SITE = {
   description:
     'Meja Hijau menelusuri kasino sebagai fenomena manusia: arsitekturnya, tokoh-tokohnya, dan keputusan-keputusan yang membentuk cara ia bekerja. Bacaan panjang, bukan panduan bermain.',
   lang: 'id-ID',
+  email: 'heuatsha@gmail.com',
+  editor: 'Larasati Dewi',
 };
 
 export const NAV = [
-  { label: 'Esai', href: '/' },
+  { label: 'Daftar Isi', href: '/' },
   { label: 'Tentang', href: '/tentang/' },
   { label: 'Kontak', href: '/kontak/' },
 ];
