@@ -49,7 +49,3 @@ Tanggapannya adalah diversifikasi yang cerdik. Monako mengubah dirinya dari seka
 ## Warisan yang masih berdiri
 
 Berjalan di Monte Carlo hari ini adalah berjalan di sebuah monumen bagi gagasan bahwa perjudian, dikelola dengan cukup cerdik, bisa menjadi fondasi sebuah negara. Bangunan kasinonya, dirancang oleh arsitek yang sama yang merancang gedung opera Paris, berdiri megah menghadap laut — sebuah katedral bagi peluang, dibangun untuk membuat pengunjung merasa mereka memasuki sesuatu yang agung. Dan mereka memang memasukinya: sebuah mesin yang, selama lebih dari satu setengah abad, telah mengubah selisih tipis di setiap taruhan menjadi pendapatan yang cukup untuk menghidupi sebuah bangsa. Monako adalah bukti paling megah dari sebuah kebenaran sederhana tentang rumah judi — bahwa tepi kecil, dikalikan cukup banyak pengunjung selama cukup lama, bisa membangun apa saja, bahkan sebuah negeri.
-
----
-
-*Esai ini membahas sejarah untuk tujuan edukatif; ia bukan ajakan bermain. Kemakmuran yang dibangun rumah judi selalu berasal dari kerugian para pengunjungnya.*
