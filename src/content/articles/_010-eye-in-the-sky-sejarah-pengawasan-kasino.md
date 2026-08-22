@@ -40,10 +40,6 @@ Pengawasan kasino modern melayani tujuan yang melampaui menangkap kecurangan, da
 
 Dengan demikian, "eye in the sky" bukan hanya perangkat keamanan tetapi juga perangkat pemasaran dan analitik. Ia melihat untuk melindungi, tetapi ia juga melihat untuk menilai — mengubah tiap pengunjung menjadi profil data yang menentukan bagaimana ia akan diperlakukan. Ketika digabungkan dengan kartu pemain yang melacak tiap taruhan secara otomatis, sistem pengawasan menjadi tulang punggung dari seluruh operasi yang mengubah perilaku bermain menjadi angka, dan angka menjadi strategi. Mata di langit-langit, dalam bentuk paling lengkapnya, tidak hanya menjaga kasino dari kecurangan; ia adalah organ indra dari sebuah mesin yang mengamati, mengukur, dan mengoptimalkan setiap orang yang melewati pintunya. Melindungi dan memanen, ternyata, dilakukan oleh mata yang sama.
 
-## Membaca mata yang membaca Anda
+## Selalu diawasi, jarang menyadarinya
 
 Ada sesuatu yang pantas direnungkan dalam berdiri di bawah kubah kaca gelap itu dan menyadari apa yang ada di baliknya. Kasino adalah salah satu lingkungan paling terawasi yang biasa dimasuki orang biasa secara sukarela — sebuah ruang di mana setiap gerakan dilihat, direkam, dan kini semakin sering dianalisis oleh mesin. Pengawasan ini punya pembenaran nyata: kasino menangani uang dalam jumlah besar dan menjadi sasaran kecurangan yang canggih. Tetapi ia juga menjadikan lantai judi sebuah laboratorium bagi teknologi yang kelak menyebar jauh melampaui dindingnya. Mata di langit-langit, yang dulu adalah seorang petugas lelah di lorong gelap, kini adalah jaringan mesin yang tak pernah tidur, tak pernah lupa, dan semakin bisa mengenali Anda dengan nama. Menyadari kehadirannya adalah menyadari bahwa di ruang ini, seperti dalam banyak hal lain tentang kasino, Anda tidak pernah benar-benar sendirian — dan tidak pernah benar-benar tak teramati.
-
----
-
-*Esai ini membahas sejarah teknologi dan pengawasan untuk tujuan edukatif; ia bukan ajakan bermain. Isu privasi seputar pengenalan wajah adalah perdebatan yang lebih luas dan masih berlangsung.*
