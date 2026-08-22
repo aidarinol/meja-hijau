@@ -40,10 +40,6 @@ Ekonomi comps punya keturunan langsung di dunia judi daring, dan mempelajarinya 
 
 Persyaratan taruhan ini adalah versi tersembunyi dari logika kerugian teoretis. Sebuah bonus yang harus dipertaruhkan, katakanlah, tiga puluh kali sebelum bisa ditarik menjamin bahwa, dengan house edge yang bekerja pada tiap taruhan, sebagian besar nilai bonus akan kembali ke rumah sebelum pemain bisa menyentuhnya. "Hadiah gratis" itu, seperti kamar gratis di lantai fisik, adalah investasi yang dirancang menghasilkan permainan yang jauh melampaui biayanya. Memahami comps fisik memberi kunci untuk membaca bonus digital: keduanya adalah kemurahan yang terhitung, di mana yang terlihat gratis dibayar dengan permainan yang tak terlihat.
 
-## Membaca kemurahan yang terhitung
+## Ketika "gratis" adalah biaya yang disembunyikan
 
 Memahami ekonomi comps mengubah cara seseorang menerima "kemurahan" kasino. Tawaran gratis itu nyata — kamarnya memang mewah, makanannya memang enak — tetapi ia bukan hadiah tanpa pamrih. Ia adalah bagian yang terlihat dari sebuah persamaan yang bagian tersembunyinya adalah kerugian teoretis pemain, dan persamaan itu selalu, menurut rancangannya, menguntungkan rumah. Tak ada yang jahat dalam hal ini; ia sekadar bisnis yang dijalankan dengan presisi. Tetapi menyebutnya "kemurahan hati" adalah salah membaca sepenuhnya apa yang terjadi. Kasino adalah salah satu bisnis paling rasional yang pernah dibuat manusia, dan dalam bisnis yang serasional itu, tak ada yang benar-benar gratis — hanya ada biaya yang cukup pandai disembunyikan sehingga terasa seperti hadiah.
-
----
-
-*Esai ini membahas ekonomi perjudian untuk tujuan edukatif; ia bukan ajakan bermain. Setiap pemberian "gratis" kasino dihitung agar tetap menguntungkan rumah.*
