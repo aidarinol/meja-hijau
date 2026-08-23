@@ -1,12 +1,12 @@
 ---
 title: "Kasino yang menghidupi sebuah negara: kisah panjang Monte Carlo"
 description: "Sebuah negeri sekecil taman kota, nyaris bangkrut, menyerahkan nasibnya pada satu rumah judi di atas tebing. Bahwa Monako masih ada hari ini — tanpa pajak penghasilan — adalah warisan dari perjudian itu dalam dua arti sekaligus."
-pubDate: 2026-08-15
+pubDate: 2026-08-23
 author: larasati-dewi
 slug: "sejarah-monte-carlo-kasino-menghidupi-negara"
 kicker: "Sejarah"
 tags: ["monte carlo", "monako", "sejarah kasino", "françois blanc"]
-draft: true
+draft: false
 sources:
   - label: "Encyclopaedia Britannica — Monaco: sejarah, Société des Bains de Mer, dan ekonomi kepangeranan"
     url: "https://www.britannica.com/place/Monaco"
