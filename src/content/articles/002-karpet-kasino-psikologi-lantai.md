@@ -1,12 +1,12 @@
 ---
 title: "Karpet kasino yang sengaja dibuat 'jelek': psikologi di bawah kaki Anda"
 description: "Pola karpet kasino yang ramai, bertabrakan, dan sering disebut buruk rupa bukanlah selera desainer yang keliru. Ia salah satu keputusan paling disengaja di seluruh ruangan — dan tujuannya ada di bawah kaki Anda."
-pubDate: 2026-08-15
+pubDate: 2026-08-26
 author: larasati-dewi
 slug: "karpet-kasino-psikologi-lantai"
 kicker: "Desain"
 tags: ["karpet kasino", "psikologi desain", "lantai", "las vegas"]
-draft: true
+draft: false
 sources:
   - label: "Bill Friedman, 'Designing Casinos to Dominate the Competition' — prinsip desain lantai kasino"
     url: "https://en.wikipedia.org/wiki/Casino#Design"
