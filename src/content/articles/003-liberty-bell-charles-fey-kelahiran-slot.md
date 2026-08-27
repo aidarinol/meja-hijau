@@ -1,12 +1,12 @@
 ---
 title: "Liberty Bell: bagaimana seorang montir di San Francisco melahirkan mesin slot"
 description: "Sebuah industri bernilai miliaran dolar bermula dari mesin tiga gulungan buatan tangan seorang imigran montir, di sebuah bengkel kecil pada penghujung abad kesembilan belas — dan dari kegagalannya mematenkan ciptaannya."
-pubDate: 2026-08-15
+pubDate: 2026-08-28
 author: larasati-dewi
 slug: "liberty-bell-charles-fey-kelahiran-slot"
 kicker: "Sejarah"
 tags: ["liberty bell", "charles fey", "sejarah mesin slot", "san francisco"]
-draft: true
+draft: false
 sources:
   - label: "Encyclopaedia Britannica / sejarah mesin slot — Charles Fey dan Liberty Bell"
     url: "https://www.britannica.com/technology/slot-machine"
