@@ -1,12 +1,12 @@
 ---
 title: "Dari gurun ke Venesia tiruan: bagaimana Strip Las Vegas menjadi kota salinan"
 description: "Sebuah jalan di tengah gurun yang membangun kembali Venesia, Paris, dan New York dalam skala mainan raksasa. Arsitektur Las Vegas bukan sekadar kitsch—ia menjadi bahan renungan serius para pemikir tentang apa itu 'nyata'."
-pubDate: 2026-08-15
+pubDate: 2026-08-29
 author: larasati-dewi
 slug: "arsitektur-strip-gurun-ke-simulakra"
 kicker: "Arsitektur"
 tags: ["las vegas", "arsitektur", "simulakra", "learning from las vegas"]
-draft: true
+draft: false
 sources:
   - label: "Venturi, Scott Brown & Izenour, 'Learning from Las Vegas' (MIT Press, 1972) — kajian arsitektur Strip"
     url: "https://mitpress.mit.edu/9780262720069/learning-from-las-vegas/"
