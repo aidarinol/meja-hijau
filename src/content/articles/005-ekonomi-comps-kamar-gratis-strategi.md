@@ -1,12 +1,12 @@
 ---
 title: "Kamar gratis, makan gratis, tiket gratis: ekonomi tersembunyi di balik 'kemurahan' kasino"
 description: "Kasino memberi tamu tertentu kamar mewah, santapan, dan pertunjukan tanpa bayar. Ini bukan kemurahan hati—ia salah satu perhitungan bisnis paling dingin dan presisi di seluruh industri, dan namanya theoretical loss."
-pubDate: 2026-08-15
+pubDate: 2026-09-04
 author: larasati-dewi
 slug: "ekonomi-comps-kamar-gratis-strategi"
 kicker: "Ekonomi"
 tags: ["comps", "kasino", "theoretical loss", "ekonomi perjudian"]
-draft: true
+draft: false
 sources:
   - label: "Encyclopaedia Britannica / literatur manajemen kasino — sistem comps dan penilaian pemain"
     url: "https://www.britannica.com/topic/gambling"
