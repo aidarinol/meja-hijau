@@ -1,12 +1,12 @@
 ---
 title: "Kenapa kasino berdenting dalam nada mayor: arsitektur suara yang tak terlihat"
 description: "Lantai kasino tidak pernah sunyi, dan tidak pernah sumbang. Setiap denting, lonceng, dan melodi kemenangan disetel dengan cermat dalam nada yang ceria—menciptakan lanskap suara yang membuat kekalahan pun terdengar seperti perayaan."
-pubDate: 2026-08-15
+pubDate: 2026-09-05
 author: larasati-dewi
 slug: "desain-suara-kasino-nada-mayor"
 kicker: "Desain"
 tags: ["desain suara", "kasino", "musik", "psikologi audio"]
-draft: true
+draft: false
 sources:
   - label: "Penelitian desain suara kasino — penggunaan nada mayor dan lanskap audio (mis. studi Karen Finlay dkk.)"
     url: "https://en.wikipedia.org/wiki/Slot_machine#Psychology"
