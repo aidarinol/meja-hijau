@@ -1,12 +1,12 @@
 ---
 title: "Gelombang moral: sejarah panjang melarang dan melegalkan judi"
 description: "Perjudian tidak pernah sekadar dilarang atau diizinkan—ia berayun bolak-balik selama berabad-abad, mengikuti pasang surut kecemasan moral, kebutuhan kas negara, dan siapa yang sedang berkuasa. Pola ayunannya sendiri adalah cerita."
-pubDate: 2026-08-15
+pubDate: 2026-09-08
 author: larasati-dewi
 slug: "sejarah-larangan-legalisasi-judi"
 kicker: "Sejarah"
 tags: ["sejarah judi", "larangan", "legalisasi", "moralitas"]
-draft: true
+draft: false
 sources:
   - label: "Encyclopaedia Britannica — sejarah dan pengaturan hukum perjudian lintas masa"
     url: "https://www.britannica.com/topic/gambling"
