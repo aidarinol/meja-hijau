@@ -1,12 +1,12 @@
 ---
 title: "Uang yang bukan uang: sejarah, desain, dan keamanan chip kasino"
 description: "Cakram kecil berwarna yang menggantikan uang di meja judi bukan sekadar penanda. Ia benda yang dirancang cermat untuk mengubah cara otak menghargai uang, dan dijaga dengan teknologi anti-palsu yang mengejutkan rumitnya."
-pubDate: 2026-08-15
+pubDate: 2026-09-09
 author: larasati-dewi
 slug: "chip-kasino-sejarah-desain-keamanan"
 kicker: "Objek"
 tags: ["chip kasino", "desain", "keamanan", "sejarah objek"]
-draft: true
+draft: false
 sources:
   - label: "Sejarah dan pembuatan chip kasino — bahan, edge spots, dan keamanan (Wikipedia)"
     url: "https://en.wikipedia.org/wiki/Casino_token"
