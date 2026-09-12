@@ -1,12 +1,12 @@
 ---
 title: "Dari meja bakarat Bond ke perampokan Ocean's Eleven: bagaimana film membentuk citra kasino"
 description: "Sebagian besar dari yang kita 'ketahui' tentang kasino sebenarnya kita pelajari dari film. Glamor, ketegangan, dan kecerdikan yang melekat pada judi di layar sering berlawanan dengan realitas—dan perbedaan itu sendiri adalah cerita."
-pubDate: 2026-08-15
+pubDate: 2026-09-12
 author: larasati-dewi
 slug: "film-membentuk-citra-kasino"
 kicker: "Budaya"
 tags: ["film", "citra kasino", "james bond", "oceans eleven"]
-draft: true
+draft: false
 sources:
   - label: "Encyclopaedia Britannica — sejarah representasi perjudian dalam film"
     url: "https://www.britannica.com/art/film"
