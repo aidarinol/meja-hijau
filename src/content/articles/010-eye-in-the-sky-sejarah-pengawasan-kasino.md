@@ -1,12 +1,12 @@
 ---
 title: "Mata di langit-langit: sejarah pengawasan kasino, dari cermin dua arah ke pengenalan wajah"
 description: "Di atas setiap lantai kasino ada mata yang tak pernah berkedip. Kisah 'eye in the sky'—dari orang yang berjalan di lorong gelap di atas cermin dua arah hingga kamera dengan pengenalan wajah—adalah sejarah kepercayaan yang tergantikan mesin."
-pubDate: 2026-08-15
+pubDate: 2026-09-18
 author: larasati-dewi
 slug: "eye-in-the-sky-sejarah-pengawasan-kasino"
 kicker: "Sejarah"
 tags: ["eye in the sky", "pengawasan", "keamanan kasino", "sejarah"]
-draft: true
+draft: false
 sources:
   - label: "Sejarah pengawasan kasino — catwalk, cermin dua arah, dan kamera (Wikipedia)"
     url: "https://en.wikipedia.org/wiki/Casino#Security"
