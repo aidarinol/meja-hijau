@@ -1,12 +1,12 @@
 ---
 title: "Rumah judi milik negara: kisah Il Ridotto, kasino publik pertama yang dibuka Republik Venesia"
 description: "Pada 1638, alih-alih memberantas judi yang merajalela saat Karnaval, Republik Venesia justru membuka rumah judinya sendiri di sayap sebuah palazzo. Sebuah negara memutuskan lebih baik mengelola dan memungut untung dari nafsu warganya daripada melawannya — dan menutupnya 136 tahun kemudian karena alasan yang sama."
-pubDate: 2026-08-23
+pubDate: 2026-09-19
 author: larasati-dewi
 slug: "ridotto-venesia-1638-kasino-pertama"
 kicker: "Sejarah"
 tags: ["ridotto", "venesia", "sejarah kasino", "karnaval"]
-draft: true
+draft: false
 sources:
   - label: "Ridotto (Wikipedia) — pendirian 1638 oleh Great Council di Palazzo Dandolo, aturan topeng, permainan biribi/basetta/faro, penutupan 1774 oleh Giorgio Pisani"
     url: "https://en.wikipedia.org/wiki/Ridotto"
