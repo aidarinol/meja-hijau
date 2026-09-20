@@ -1,12 +1,12 @@
 ---
 title: "Bakarat, bandar yang berpindah, dan sebuah mitos tentang kata 'nol'"
 description: "Chemin de fer, bakarat versi bangsawan Prancis, punya aturan aneh: bandarnya bukan kasino, melainkan para pemain yang bergiliran. Sekaligus kisah tentang asal-usul yang diperdebatkan dan satu etimologi populer yang ternyata tak berdasar."
-pubDate: 2026-08-23
+pubDate: 2026-09-20
 author: larasati-dewi
 slug: "bakarat-chemin-de-fer-bangsawan-prancis"
 kicker: "Sejarah"
 tags: ["bakarat", "chemin de fer", "sejarah kartu", "aristokrasi prancis"]
-draft: true
+draft: false
 sources:
   - label: "Baccarat (Wikipedia) — asal-usul yang diperdebatkan, konteks bangsawan, kaitan James Bond, dan beda dengan punto banco"
     url: "https://en.wikipedia.org/wiki/Baccarat"
