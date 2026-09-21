@@ -1,12 +1,12 @@
 ---
 title: "Kenapa 'dua puluh satu' berganti nama jadi blackjack: menelusuri asal permainan yang namanya sendiri sebuah teka-teki"
 description: "Permainannya bernama 'dua puluh satu' selama berabad-abad, dari salon Prancis sampai kapal uap Amerika. Lalu sebuah bonus pembayaran melahirkan julukan yang menempel dan menggeser nama aslinya, meski cerita di baliknya tak sepenuhnya bisa dibuktikan."
-pubDate: 2026-08-23
+pubDate: 2026-09-22
 author: larasati-dewi
 slug: "vingt-et-un-cikal-bakal-blackjack"
 kicker: "Sejarah"
 tags: ["blackjack", "vingt-et-un", "sejarah kartu", "asal usul permainan"]
-draft: true
+draft: false
 sources:
   - label: "Twenty-one (Wikipedia) — referensi Spanyol awal abad ke-17, popularitas Prancis abad ke-18, dan sanggahan Depaulis"
     url: "https://en.wikipedia.org/wiki/Twenty-one_(card_game)"
