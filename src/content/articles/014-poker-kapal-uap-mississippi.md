@@ -1,12 +1,12 @@
 ---
 title: "Meja judi yang mengapung: bagaimana kapal uap Mississippi membesarkan poker"
 description: "Pada awal abad kesembilan belas, poker menumpang kapal uap menyusuri Sungai Mississippi bersama para pedagang kaya dan penjudi profesional yang licik. Kisah tentang bagaimana sebuah permainan tumbuh di atas air, dan mengapa reputasinya begitu kelam."
-pubDate: 2026-08-23
+pubDate: 2026-09-24
 author: larasati-dewi
 slug: "poker-kapal-uap-mississippi"
 kicker: "Sejarah"
 tags: ["sejarah poker", "kapal uap mississippi", "penjudi", "new orleans"]
-draft: true
+draft: false
 sources:
   - label: "History of poker (Wikipedia) — penyebaran poker lewat kapal uap Mississippi, transisi dek 20 ke 52 kartu, catatan Joseph Cowell 1829"
     url: "https://en.wikipedia.org/wiki/History_of_poker"
