@@ -1,12 +1,12 @@
 ---
 title: "Melawan harimau: kisah faro, permainan judi paling populer di Amerika yang kini nyaris punah"
 description: "Sebelum poker berkuasa, faro merajai hampir setiap rumah judi di Wild West. Ia lahir di istana Prancis, dijuluki 'melawan harimau', punya keunggulan rumah yang tipis, dan justru karena itu berakhir tenggelam dalam kecurangan dan kepunahan."
-pubDate: 2026-08-23
+pubDate: 2026-09-25
 author: larasati-dewi
 slug: "faro-permainan-populer-wild-west"
 kicker: "Sejarah"
 tags: ["faro", "wild west", "sejarah judi", "kecurangan kartu"]
-draft: true
+draft: false
 sources:
   - label: "Faro (card game) — Wikipedia: popularitas melampaui poker abad ke-19, asal pharaon dari basset, dealing box, gaffed box"
     url: "https://en.wikipedia.org/wiki/Faro_(card_game)"
