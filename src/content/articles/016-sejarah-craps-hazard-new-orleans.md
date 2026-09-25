@@ -1,12 +1,12 @@
 ---
 title: "Dari 'hazard' ke lantai kasino: sejarah craps dan legenda yang menempel padanya"
 description: "Permainan dadu craps tumbuh dari permainan Inggris kuno bernama hazard, mampir di New Orleans, dan disempurnakan seorang pembuat dadu pada 1907. Di sepanjang jalan, ia mengumpulkan lapisan legenda yang perlu dipisahkan dari faktanya."
-pubDate: 2026-08-23
+pubDate: 2026-09-26
 author: larasati-dewi
 slug: "sejarah-craps-hazard-new-orleans"
 kicker: "Sejarah"
 tags: ["craps", "hazard", "sejarah dadu", "new orleans"]
-draft: true
+draft: false
 sources:
   - label: "Craps (Wikipedia) — asal dari hazard, nama dari 'crabs', koreksi peran Marigny, dan John H. Winn 1907 (Don't Pass)"
     url: "https://en.wikipedia.org/wiki/Craps"
