@@ -1,12 +1,12 @@
 ---
 title: "Novel yang lahir dari kecanduan: Dostoevsky, roulette, dan taruhan melawan tenggat"
 description: "Fyodor Dostoevsky menghamburkan uangnya di meja roulette kasino-kasino spa Jerman. Dari kecanduan itu, di bawah kontrak yang mengancam merampas seluruh karyanya, ia mendiktekan sebuah novel tentang seorang penjudi dalam waktu kurang dari sebulan."
-pubDate: 2026-08-24
+pubDate: 2026-09-27
 author: larasati-dewi
 slug: "dostoevsky-penjudi-wiesbaden"
 kicker: "Sejarah"
 tags: ["dostoevsky", "the gambler", "roulette", "wiesbaden"]
-draft: true
+draft: false
 sources:
   - label: "The Gambler (novel) — Wikipedia: kontrak Stellovsky, tenggat 1 November 1866, stenografer Anna Snitkina"
     url: "https://en.wikipedia.org/wiki/The_Gambler_(novel)"
