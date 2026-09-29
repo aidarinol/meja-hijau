@@ -1,12 +1,12 @@
 ---
 title: "Matematikawan yang membuktikan kasino bisa dikalahkan: Edward Thorp dan Beat the Dealer"
 description: "Pada awal 1960-an, seorang dosen matematika memakai komputer untuk membuktikan bahwa blackjack, tidak seperti hampir semua permainan kasino, bisa dimenangkan pemain. Bukunya menggemparkan industri judi dan mengubah cara kasino bekerja selamanya."
-pubDate: 2026-08-24
+pubDate: 2026-09-30
 author: larasati-dewi
 slug: "edward-thorp-beat-the-dealer"
 kicker: "Tokoh"
 tags: ["edward thorp", "beat the dealer", "blackjack", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "Edward O. Thorp — Wikipedia: komputer IBM 704, uji kasino Nevada bersama Manny Kimmel, karier keuangan kuantitatif"
     url: "https://en.wikipedia.org/wiki/Edward_O._Thorp"
