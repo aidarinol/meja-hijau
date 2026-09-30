@@ -1,12 +1,12 @@
 ---
 title: "Tim blackjack MIT: ketika mahasiswa mengubah penghitungan kartu menjadi sebuah bisnis"
 description: "Sekelompok mahasiswa dan alumnus MIT menjadikan penghitungan kartu bukan lagi kegemaran perorangan, melainkan operasi tim yang terstruktur dengan modal investor. Kisah mereka nyata, tetapi sebagian besar yang dikenal publik datang dari buku yang dibumbui."
-pubDate: 2026-08-24
+pubDate: 2026-10-01
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "tim-blackjack-mit"
 tags: ["tim blackjack mit", "penghitungan kartu", "bringing down the house", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "MIT Blackjack Team — Wikipedia: pembentukan 1980, peran Bill Kaplan dan J.P. Massar, struktur tim"
     url: "https://en.wikipedia.org/wiki/MIT_Blackjack_Team"
