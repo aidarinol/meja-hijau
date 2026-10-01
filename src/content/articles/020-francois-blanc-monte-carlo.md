@@ -1,12 +1,12 @@
 ---
 title: "François Blanc: pria yang menghapus satu angka dan membangun Monte Carlo"
 description: "Dengan menghapus satu petak dari roda roulette, François Blanc menciptakan permainan yang lebih ramah pemain dan senjata bisnis yang ampuh. Kisahnya menautkan sebuah roda judi dengan penyelamatan sebuah negara kecil bernama Monaco."
-pubDate: 2026-08-24
+pubDate: 2026-10-02
 author: larasati-dewi
 kicker: "Tokoh"
 slug: "francois-blanc-monte-carlo"
 tags: ["francois blanc", "monte carlo", "roulette", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "François Blanc — Wikipedia: roda satu-nol di Bad Homburg 1843, konsesi Monaco 1863, dan julukannya"
     url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Blanc"
