@@ -1,12 +1,12 @@
 ---
 title: "Dari karakter Cina ke kartu kasino: sejarah keno dan legenda-legenda di sekelilingnya"
 description: "Keno berakar pada lotere Cina kuno yang memakai karakter, bukan angka, dan menyeberang ke Amerika bersama para imigran. Di sepanjang jalan tumbuh legenda tentang Tembok Besar dan merpati pos yang perlu dipisahkan dari fakta."
-pubDate: 2026-08-24
+pubDate: 2026-10-04
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "keno-asal-china-lotere"
 tags: ["keno", "lotere cina", "sejarah kasino", "baige piao"]
-draft: true
+draft: false
 sources:
   - label: "Keno — Wikipedia: asal baige piao, karakter Thousand Character Classic, dan penyebaran ke Amerika"
     url: "https://en.wikipedia.org/wiki/Keno"
