@@ -1,12 +1,12 @@
 ---
 title: "Pai gow poker dan paten yang lepas: kisah Sam Torosian yang menciptakan permainan tanpa memilikinya"
 description: "Sebuah permainan kartu yang menggabungkan domino Cina dengan poker Amerika lahir di sebuah klub kartu California pada 1985. Penciptanya membangun permainan yang tersebar ke seluruh dunia, tetapi menurut kisah yang beredar, tak pernah mematenkannya."
-pubDate: 2026-08-24
+pubDate: 2026-10-07
 author: larasati-dewi
 kicker: "Tokoh"
 slug: "pai-gow-poker-sam-torosian"
 tags: ["pai gow poker", "sam torosian", "sejarah kasino", "permainan kartu"]
-draft: true
+draft: false
 sources:
   - label: "Pai gow poker — Wikipedia: penciptaan oleh Sam Torosian di Bell Card Club 1985, dan kisah paten"
     url: "https://en.wikipedia.org/wiki/Pai_gow_poker"
