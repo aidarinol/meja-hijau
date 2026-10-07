@@ -1,12 +1,12 @@
 ---
 title: "Sic bo: permainan tiga dadu dari Tiongkok dan taruhan yang harus dibaca dengan cermat"
 description: "Tiga dadu dikocok dalam wadah tertutup, dan meja dipenuhi puluhan pilihan taruhan. Sebagian ramah, sebagian menjebak dengan keunggulan rumah yang sangat besar. Sic bo menuntut pemainnya tahu mana yang layak dipertaruhkan."
-pubDate: 2026-08-24
+pubDate: 2026-10-08
 author: larasati-dewi
 kicker: "Permainan"
 slug: "sic-bo-dadu-tiga"
 tags: ["sic bo", "dadu", "permainan kasino", "besar kecil"]
-draft: true
+draft: false
 sources:
   - label: "Sic bo — Wikipedia: asal Tiongkok, jenis taruhan tiga dadu, dan variasi house edge"
     url: "https://en.wikipedia.org/wiki/Sic_bo"
