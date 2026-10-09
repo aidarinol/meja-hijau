@@ -1,12 +1,12 @@
 ---
 title: "Three card poker: penemu yang justru memetik hasil dari ciptaannya"
 description: "Berbeda dari banyak penemu permainan kasino yang gagal mengamankan hak atas ciptaannya, Derek Webb mematenkan dan melisensikan three card poker, dan menuai keuntungan besar. Ini kisahnya, dan keanehan aturan di mana straight mengalahkan flush."
-pubDate: 2026-08-24
+pubDate: 2026-10-10
 author: larasati-dewi
 kicker: "Tokoh"
 slug: "three-card-poker-derek-webb"
 tags: ["three card poker", "derek webb", "permainan kasino", "poker tiga kartu"]
-draft: true
+draft: false
 sources:
   - label: "Three Card Poker — Wikipedia: penemuan oleh Derek Webb 1994, paten, dan lisensi lewat Prime Table Games"
     url: "https://en.wikipedia.org/wiki/Three_Card_Poker"
