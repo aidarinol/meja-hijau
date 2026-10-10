@@ -1,12 +1,12 @@
 ---
 title: "Liberty Bell: mesin slot pertama dan gagasan sederhana yang mengubah segalanya"
 description: "Sebuah mesin buatan seorang mekanik San Francisco pada akhir abad kesembilan belas melahirkan seluruh dunia mesin slot. Rahasianya bukan kerumitan, melainkan penyederhanaan yang memungkinkan mesin membayar sendiri. Ini kisah Charles Fey dan Liberty Bell."
-pubDate: 2026-08-24
+pubDate: 2026-10-11
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "charles-fey-liberty-bell"
 tags: ["liberty bell", "charles fey", "mesin slot pertama", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "Liberty Bell (game) — Wikipedia: mesin Charles Fey, tiga gulungan, simbol, dan pembayaran otomatis"
     url: "https://en.wikipedia.org/wiki/Liberty_Bell_(game)"
