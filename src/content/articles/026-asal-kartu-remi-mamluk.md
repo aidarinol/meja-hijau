@@ -1,12 +1,12 @@
 ---
 title: "Dari Mesir ke meja Eropa: asal-usul kartu remi dan warisan kartu Mamluk"
 description: "Kartu remi yang kita mainkan hari ini berakar pada kartu Mamluk dari dunia Islam, yang tiba di Eropa pada akhir abad keempat belas. Jejaknya masih hidup pada empat jenis kartu, dan pada sejarah yang jauh lebih tua daripada yang kita duga."
-pubDate: 2026-08-24
+pubDate: 2026-10-13
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "asal-kartu-remi-mamluk"
 tags: ["kartu remi", "kartu mamluk", "sejarah kartu", "empat jenis kartu"]
-draft: true
+draft: false
 sources:
   - label: "Mamluk playing cards — Wikipedia: empat suit Mamluk, ketiadaan gambar manusia, dan dek Topkapı"
     url: "https://en.wikipedia.org/wiki/Mamluk_playing_cards"
