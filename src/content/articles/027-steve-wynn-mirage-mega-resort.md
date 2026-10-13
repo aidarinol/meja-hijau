@@ -1,12 +1,12 @@
 ---
 title: "The Mirage dan lahirnya era mega-resort: bagaimana Las Vegas berubah wajah"
 description: "Sebelum 1989, Las Vegas adalah kota kasino. Sesudahnya, ia menjadi kota resort mewah dengan gunung berapi buatan, air mancur menari, dan tontonan yang melampaui judi. The Mirage memulai transformasi itu, dan mengubah arti sebuah kasino selamanya."
-pubDate: 2026-08-25
+pubDate: 2026-10-14
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "steve-wynn-mirage-mega-resort"
 tags: ["the mirage", "las vegas", "mega-resort", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "The Mirage — Wikipedia: pembukaan 1989, biaya, tema, dan status sebagai mega-resort pertama"
     url: "https://en.wikipedia.org/wiki/The_Mirage"
