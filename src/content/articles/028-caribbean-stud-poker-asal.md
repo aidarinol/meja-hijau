@@ -1,12 +1,12 @@
 ---
 title: "Caribbean stud poker: permainan dengan asal-usul yang diperdebatkan"
 description: "Sebuah permainan poker melawan bandar yang populer di kapal pesiar dan kasino Karibia menyimpan misteri: siapa sebenarnya yang menciptakannya. Klaim yang bersaing dan detail yang kabur membuat asal-usulnya menjadi salah satu perdebatan menarik dalam sejarah permainan kasino."
-pubDate: 2026-08-25
+pubDate: 2026-10-15
 author: larasati-dewi
 kicker: "Permainan"
 slug: "caribbean-stud-poker-asal"
 tags: ["caribbean stud poker", "poker kasino", "sejarah kasino", "jackpot progresif"]
-draft: true
+draft: false
 sources:
   - label: "Caribbean stud poker — Wikipedia: sifat permainan, klaim penciptaan yang berbeda, dan aturan kualifikasi"
     url: "https://en.wikipedia.org/wiki/Caribbean_stud_poker"
