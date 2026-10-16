@@ -1,12 +1,12 @@
 ---
 title: "The Eudaemons: mahasiswa fisika, komputer dalam sepatu, dan usaha mengalahkan roulette"
 description: "Pada akhir 1970-an, sekelompok mahasiswa fisika membangun salah satu komputer pertama yang bisa dipakai di tubuh, disembunyikan dalam sepatu, untuk memprediksi roulette lewat hukum fisika. Kisah mereka adalah petualangan ilmiah yang berani, meski hasilnya jauh dari sempurna."
-pubDate: 2026-08-25
+pubDate: 2026-10-17
 author: larasati-dewi
 kicker: "Tokoh"
 slug: "the-eudaemons-komputer-roulette"
 tags: ["the eudaemons", "roulette", "komputer sepatu", "sejarah kasino"]
-draft: true
+draft: false
 sources:
   - label: "Eudaemons — Wikipedia: mahasiswa fisika UC Santa Cruz, komputer sepatu, dan prediksi roulette"
     url: "https://en.wikipedia.org/wiki/Eudaemons"
