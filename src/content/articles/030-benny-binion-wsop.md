@@ -1,12 +1,12 @@
 ---
 title: "Benny Binion dan lahirnya World Series of Poker"
 description: "Turnamen poker paling terkenal di dunia berawal dari gagasan seorang pemilik kasino di Las Vegas pada 1970. Yang dimulai sebagai undangan bagi segelintir pemain terbaik tumbuh menjadi ajang raksasa. Ini kisah asal-usul World Series of Poker."
-pubDate: 2026-08-25
+pubDate: 2026-10-18
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "benny-binion-wsop"
 tags: ["benny binion", "world series of poker", "wsop", "sejarah poker"]
-draft: true
+draft: false
 sources:
   - label: "World Series of Poker — Wikipedia: asal 1970 di Binion's Horseshoe dan perkembangannya"
     url: "https://en.wikipedia.org/wiki/World_Series_of_Poker"
