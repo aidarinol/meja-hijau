@@ -1,12 +1,12 @@
 ---
 title: "Punto banco: bakarat tanpa keputusan, tempat aturan menggantikan keterampilan"
 description: "Dalam versi bakarat yang paling umum di kasino modern, pemain sama sekali tidak membuat keputusan selain memilih taruhan. Semua langkah ditentukan aturan tetap. Ini penjelasan cara kerja punto banco, dan mengapa ia justru begitu populer."
-pubDate: 2026-08-25
+pubDate: 2026-10-20
 author: larasati-dewi
 kicker: "Permainan"
 slug: "punto-banco-bakarat"
 tags: ["punto banco", "bakarat", "permainan kasino", "peluang"]
-draft: true
+draft: false
 sources:
   - label: "Baccarat (card game) — Wikipedia: varian punto banco dan aturan penarikan kartu tetap"
     url: "https://en.wikipedia.org/wiki/Baccarat"
