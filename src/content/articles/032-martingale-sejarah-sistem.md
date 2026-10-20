@@ -1,12 +1,12 @@
 ---
 title: "Sistem martingale: sejarah strategi taruhan yang menjanjikan kemenangan pasti namun menipu"
 description: "Menggandakan taruhan setelah setiap kekalahan terdengar seperti cara pasti untuk selalu untung pada akhirnya. Sistem martingale ini sudah menggoda para penjudi selama berabad-abad, dan selama itu pula ia telah menghancurkan mereka. Ini sejarah dan matematika di baliknya."
-pubDate: 2026-08-25
+pubDate: 2026-10-21
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "martingale-sejarah-sistem"
 tags: ["martingale", "sistem taruhan", "sejarah judi", "kebangkrutan"]
-draft: true
+draft: false
 sources:
   - label: "Martingale (betting system) — Wikipedia: cara kerja, asal abad ke-18, dan mengapa ia gagal"
     url: "https://en.wikipedia.org/wiki/Martingale_(betting_system)"
