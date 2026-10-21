@@ -1,12 +1,12 @@
 ---
 title: "Kartu tarot dan kartu remi: sepupu yang berpisah jalan dalam sejarah"
 description: "Kartu tarot yang kini dikaitkan dengan ramalan sebenarnya berawal sebagai permainan kartu biasa, sepupu dari kartu remi. Kaitannya dengan mistik datang jauh kemudian. Ini kisah bagaimana dua jenis kartu yang berkerabat menempuh jalan yang sangat berbeda."
-pubDate: 2026-08-25
+pubDate: 2026-10-22
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-kartu-tarot-vs-remi"
 tags: ["kartu tarot", "kartu remi", "sejarah kartu", "permainan kartu"]
-draft: true
+draft: false
 sources:
   - label: "Tarot — Wikipedia: asal tarot sebagai permainan kartu abad ke-15 dan penggunaan ramalan yang muncul kemudian"
     url: "https://en.wikipedia.org/wiki/Tarot"
