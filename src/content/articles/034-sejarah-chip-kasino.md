@@ -1,12 +1,12 @@
 ---
 title: "Sejarah chip kasino: mengapa uang berubah menjadi keping berwarna"
 description: "Di meja judi, uang sungguhan digantikan oleh keping-keping berwarna. Perubahan ini bukan sekadar tradisi, melainkan lahir dari kebutuhan praktis, keamanan, dan bahkan psikologi. Ini kisah bagaimana chip kasino menjadi seperti sekarang."
-pubDate: 2026-08-25
+pubDate: 2026-10-23
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-chip-kasino"
 tags: ["chip kasino", "sejarah kasino", "keamanan kasino", "psikologi judi"]
-draft: true
+draft: false
 sources:
   - label: "Casino token — Wikipedia: sejarah chip kasino, standarisasi, dan fitur keamanan"
     url: "https://en.wikipedia.org/wiki/Casino_token"
