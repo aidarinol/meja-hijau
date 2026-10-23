@@ -1,12 +1,12 @@
 ---
 title: "Taruhan lusinan dan kolom di roulette: peluang lebih besar dengan pembayaran lebih kecil"
 description: "Selain bertaruh pada satu angka, roulette menawarkan taruhan pada kelompok besar angka seperti lusinan dan kolom, yang menang lebih sering namun membayar lebih kecil. Memahami taruhan ini menjelaskan pilihan antara peluang dan hadiah, serta keunggulan rumah yang tetap sama."
-pubDate: 2026-08-25
+pubDate: 2026-10-24
 author: larasati-dewi
 kicker: "Permainan"
 slug: "roulette-dozen-column-taruhan"
 tags: ["roulette", "taruhan lusinan", "taruhan kolom", "peluang"]
-draft: true
+draft: false
 sources:
   - label: "Roulette — Wikipedia: jenis taruhan luar termasuk dozen dan column serta pembayarannya"
     url: "https://en.wikipedia.org/wiki/Roulette"
