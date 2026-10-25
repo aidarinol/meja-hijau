@@ -1,12 +1,12 @@
 ---
 title: "Sejarah mahjong: permainan ubin Tiongkok yang menaklukkan dunia"
 description: "Mahjong, permainan ubin yang menggabungkan keterampilan, strategi, dan keberuntungan, berakar di Tiongkok dan menyebar ke seluruh dunia dengan banyak varian. Ini kisah asal-usulnya, penyebarannya, dan mengapa ia bertahan sebagai salah satu permainan meja paling dicintai."
-pubDate: 2026-08-25
+pubDate: 2026-10-26
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-mahjong"
 tags: ["mahjong", "permainan ubin", "sejarah tiongkok", "permainan meja"]
-draft: true
+draft: false
 sources:
   - label: "Mahjong — Wikipedia: asal Tiongkok abad ke-19, ubin, varian, dan penyebaran global"
     url: "https://en.wikipedia.org/wiki/Mahjong"
