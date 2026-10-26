@@ -1,12 +1,12 @@
 ---
 title: "Atlantic City: kota tepi laut yang bangkit dua kali lewat kasino"
 description: "Sebelum Las Vegas menjadi raja, Atlantic City adalah tujuan wisata tepi laut yang gemerlap, lalu meredup, lalu bangkit kembali sebagai pusat kasino besar pertama di luar Nevada. Kisahnya adalah kisah tentang naik, jatuh, dan bangkit sebuah kota yang nasibnya terikat pada perjudian."
-pubDate: 2026-08-25
+pubDate: 2026-10-27
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "atlantic-city-sejarah"
 tags: ["atlantic city", "sejarah kasino", "new jersey", "resorts international"]
-draft: true
+draft: false
 sources:
   - label: "Atlantic City, New Jersey — Wikipedia: sejarah kota, Boardwalk, dan legalisasi kasino"
     url: "https://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey"
