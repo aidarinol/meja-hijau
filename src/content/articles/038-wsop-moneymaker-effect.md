@@ -1,12 +1,12 @@
 ---
 title: "Efek Moneymaker: bagaimana seorang akuntan memicu ledakan poker dunia"
 description: "Pada 2003, seorang akuntan amatir bernama Chris Moneymaker memenangkan kejuaraan poker terbesar dunia setelah lolos lewat turnamen online murah. Jumlah peserta lalu meledak berlipat ganda dalam beberapa tahun. Tetapi seberapa besar sebenarnya perannya, dan faktor apa lagi yang bekerja di baliknya?"
-pubDate: 2026-08-25
+pubDate: 2026-10-28
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "wsop-moneymaker-effect"
 tags: ["chris moneymaker", "wsop", "boom poker", "sejarah poker"]
-draft: true
+draft: false
 sources:
   - label: "Moneymaker effect — Wikipedia: dampak kemenangan 2003 terhadap pertumbuhan poker"
     url: "https://en.wikipedia.org/wiki/Moneymaker_effect"
