@@ -1,12 +1,12 @@
 ---
 title: "Macau vs Las Vegas: dua ibu kota judi dengan dua model yang berbeda"
 description: "Macau melampaui Las Vegas sebagai pasar judi terbesar dunia, tetapi dua kota ini membangun kejayaan dengan cara yang sangat berbeda. Membandingkan keduanya mengungkap dua filosofi kasino yang kontras, satu berpusat pada judi murni, satu lagi pada hiburan menyeluruh."
-pubDate: 2026-08-25
+pubDate: 2026-10-29
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "macau-vs-vegas"
 tags: ["macau", "las vegas", "sejarah kasino", "industri judi"]
-draft: true
+draft: false
 sources:
   - label: "Gambling in Macau — Wikipedia: pendapatan, sejarah monopoli, dan dominasi bakarat"
     url: "https://en.wikipedia.org/wiki/Gambling_in_Macau"
