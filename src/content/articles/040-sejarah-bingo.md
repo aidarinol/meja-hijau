@@ -1,12 +1,12 @@
 ---
 title: "Sejarah bingo: dari lotere Italia ke aula gereja Amerika"
 description: "Bingo, permainan angka yang sederhana dan menghibur, memiliki sejarah panjang yang berakar pada lotere Italia abad keenam belas dan berkembang menjadi permainan sosial yang dicintai. Ini kisah perjalanannya, lengkap dengan legenda-legenda yang menyertainya dan mana yang benar-benar terbukti."
-pubDate: 2026-08-25
+pubDate: 2026-10-31
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-bingo"
 tags: ["bingo", "sejarah permainan", "lotere italia", "permainan sosial"]
-draft: true
+draft: false
 sources:
   - label: "Bingo (American version) — Wikipedia: asal lotere Italia, beano, dan Edwin Lowe"
     url: "https://en.wikipedia.org/wiki/Bingo_(American_version)"
