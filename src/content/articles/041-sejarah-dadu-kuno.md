@@ -1,12 +1,12 @@
 ---
 title: "Sejarah dadu: dari tulang binatang ke kubus yang adil"
 description: "Dadu termasuk alat permainan tertua yang pernah dibuat manusia, berevolusi dari tulang binatang ribuan tahun lalu menjadi kubus simetris yang adil. Perjalanannya mengungkap bagaimana pemahaman tentang keberuntungan dan keacakan berubah sepanjang sejarah."
-pubDate: 2026-08-25
+pubDate: 2026-11-01
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-dadu-kuno"
 tags: ["sejarah dadu", "astragali", "permainan kuno", "keacakan"]
-draft: true
+draft: false
 sources:
   - label: "Dice — Wikipedia: asal-usul dadu, astragali, dan evolusi menuju kubus adil"
     url: "https://en.wikipedia.org/wiki/Dice"
