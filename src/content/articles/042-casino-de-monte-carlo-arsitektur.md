@@ -1,12 +1,12 @@
 ---
 title: "Kasino Monte Carlo: kemegahan yang menyelamatkan sebuah kerajaan kecil"
 description: "Kasino Monte Carlo di Monako lahir dari kebutuhan menyelamatkan kerajaan Grimaldi dari kebangkrutan, dan berkembang menjadi lambang kemewahan dunia. Di balik fasadnya yang megah tersembunyi kisah tentang penyelamatan finansial, arsitektur agung, dan sang perancang opera Paris."
-pubDate: 2026-08-25
+pubDate: 2026-11-02
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "casino-de-monte-carlo-arsitektur"
 tags: ["monte carlo", "monako", "sejarah kasino", "charles garnier"]
-draft: true
+draft: false
 sources:
   - label: "Monte Carlo Casino — Wikipedia: sejarah, penyelamatan Grimaldi, dan arsitektur"
     url: "https://en.wikipedia.org/wiki/Monte_Carlo_Casino"
