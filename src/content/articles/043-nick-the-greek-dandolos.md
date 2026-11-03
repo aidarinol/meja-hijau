@@ -1,12 +1,12 @@
 ---
 title: "Nick the Greek Dandolos: legenda penjudi antara fakta dan mitos"
 description: "Nick Dandolos, dikenal sebagai Nick the Greek, adalah penjudi legendaris yang konon memenangkan dan kehilangan jutaan berkali-kali. Tetapi banyak kisah tentangnya, termasuk pertandingan poker maraton yang terkenal, ternyata lebih merupakan legenda daripada sejarah yang terbukti."
-pubDate: 2026-08-25
+pubDate: 2026-11-04
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "nick-the-greek-dandolos"
 tags: ["nick dandolos", "sejarah judi", "poker", "legenda kasino"]
-draft: true
+draft: false
 sources:
   - label: "Nick Dandolos — Wikipedia: biografi penjudi legendaris dan kisah-kisah tentangnya"
     url: "https://en.wikipedia.org/wiki/Nick_Dandolos"
