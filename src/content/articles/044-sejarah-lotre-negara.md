@@ -1,12 +1,12 @@
 ---
 title: "Sejarah lotre negara: dari undian kuno ke pendanaan proyek publik"
 description: "Lotre yang dijalankan negara memiliki sejarah panjang, dari undian kuno hingga menjadi cara mengumpulkan dana untuk tembok kota, universitas, dan proyek publik. Kisahnya mengungkap ketegangan abadi antara lotre sebagai sumber dana sukarela dan kritik sebagai pajak yang menyasar yang miskin."
-pubDate: 2026-08-25
+pubDate: 2026-11-05
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-lotre-negara"
 tags: ["lotre", "sejarah lotre", "undian", "pendanaan publik"]
-draft: true
+draft: false
 sources:
   - label: "Lottery — Wikipedia: sejarah lotre dari undian kuno hingga lotre negara"
     url: "https://en.wikipedia.org/wiki/Lottery"
