@@ -1,12 +1,12 @@
 ---
 title: "Judi di saloon Wild West: faro, kartu, dan legenda perbatasan Amerika"
 description: "Di kota-kota perbatasan Amerika abad kesembilan belas, saloon adalah pusat sosial di mana judi merajalela, dengan faro sebagai raja permainan. Di balik citra romantis Hollywood tersembunyi kenyataan tentang permainan yang sering curang dan legenda yang lebih mitos daripada fakta."
-pubDate: 2026-08-25
+pubDate: 2026-11-09
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "wild-west-saloon-judi"
 tags: ["wild west", "saloon", "faro", "sejarah judi amerika"]
-draft: true
+draft: false
 sources:
   - label: "Faro (card game) — Wikipedia: permainan judi paling populer di Old West"
     url: "https://en.wikipedia.org/wiki/Faro_(card_game)"
