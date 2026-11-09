@@ -1,12 +1,12 @@
 ---
 title: "Kartu As: dari kartu terendah menjadi lambang kekuatan"
 description: "As, kartu dengan satu lambang, kini melambangkan yang tertinggi dan terkuat. Tetapi sejarahnya justru bermula sebagai kartu terendah, dan perjalanannya menuju puncak, lengkap dengan kisah cap pajak dan reputasi sebagai kartu kematian, mengungkap sejarah yang jauh lebih kaya dari yang terlihat."
-pubDate: 2026-08-25
+pubDate: 2026-11-10
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "kartu-as-sejarah-simbol"
 tags: ["kartu as", "sejarah kartu", "as sekop", "simbolisme"]
-draft: true
+draft: false
 sources:
   - label: "Ace — Wikipedia: sejarah kartu as, etimologi, dan nilai tinggi-rendah"
     url: "https://en.wikipedia.org/wiki/Ace"
