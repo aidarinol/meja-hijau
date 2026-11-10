@@ -1,12 +1,12 @@
 ---
 title: "Mengapa slot penuh buah: kisah permen karet di balik ceri dan lemon"
 description: "Ceri, lemon, plum, dan simbol BAR pada mesin slot bukan sekadar hiasan; mereka lahir dari sejarah menarik tentang permen karet dan cara mengakali hukum anti-judi. Menelusuri asal-usul simbol buah mengungkap kisah cerdik di balik ikon-ikon slot yang kita kenal."
-pubDate: 2026-08-25
+pubDate: 2026-11-11
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-slot-fruit-machine"
 tags: ["mesin buah", "simbol slot", "sejarah slot", "permen karet"]
-draft: true
+draft: false
 sources:
   - label: "Slot machine — Wikipedia: asal simbol buah, permen karet, dan simbol BAR"
     url: "https://en.wikipedia.org/wiki/Slot_machine"
