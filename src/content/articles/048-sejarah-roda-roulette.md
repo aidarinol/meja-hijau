@@ -1,12 +1,12 @@
 ---
 title: "Sejarah roda roulette: dari mimpi gerak abadi ke roda setan"
 description: "Roda roulette, dengan angka-angkanya yang berputar, memiliki asal-usul yang menarik yang konon terkait dengan pencarian gerak abadi. Dari Prancis abad kedelapan belas hingga inovasi nol tunggal, sejarahnya mengungkap bagaimana sebuah roda menjadi ikon perjudian dan mengapa ia dijuluki roda setan."
-pubDate: 2026-08-25
+pubDate: 2026-11-12
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-roda-roulette"
 tags: ["roulette", "sejarah roulette", "roda setan", "pascal"]
-draft: true
+draft: false
 sources:
   - label: "Roulette — Wikipedia: asal roda, perkembangan Prancis, dan inovasi nol tunggal"
     url: "https://en.wikipedia.org/wiki/Roulette"
