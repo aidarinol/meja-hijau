@@ -1,12 +1,12 @@
 ---
 title: "Kasino terapung: dari kapal uap Mississippi ke jalan pintas hukum modern"
 description: "Kasino terapung memiliki sejarah panjang, dari perjudian di kapal uap Mississippi abad kesembilan belas hingga kebangkitannya sebagai jalan pintas hukum di Amerika modern. Kisahnya mengungkap bagaimana air menjadi tempat perjudian dilegalkan sekaligus dibatasi."
-pubDate: 2026-08-25
+pubDate: 2026-11-13
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "sejarah-kasino-terapung"
 tags: ["kasino terapung", "kapal uap mississippi", "riverboat casino", "sejarah judi"]
-draft: true
+draft: false
 sources:
   - label: "Riverboat casino — Wikipedia: sejarah perjudian kapal uap dan kebangkitan kasino terapung modern"
     url: "https://en.wikipedia.org/wiki/Riverboat_casino"
