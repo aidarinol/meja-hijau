@@ -1,12 +1,12 @@
 ---
 title: "Trente et Quarante: permainan kartu Prancis kuno dengan keunggulan rumah terkecil"
 description: "Trente et Quarante, atau merah dan hitam, adalah permainan kartu kasino Prancis kuno yang terkenal dengan keunggulan rumah yang sangat rendah. Dari meja-meja mewah Monte Carlo, permainan ini menawarkan salah satu peluang terbaik bagi pemain di antara semua permainan kasino."
-pubDate: 2026-08-25
+pubDate: 2026-11-14
 author: larasati-dewi
 kicker: "Sejarah"
 slug: "trente-et-quarante"
 tags: ["trente et quarante", "rouge et noir", "permainan kartu", "keunggulan rumah"]
-draft: true
+draft: false
 sources:
   - label: "Trente et quarante — Wikipedia: permainan kartu Prancis kuno dan keunggulan rumah rendah"
     url: "https://en.wikipedia.org/wiki/Trente_et_quarante"
